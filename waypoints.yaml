@@ -1,0 +1,8 @@
+- location_name: kitchen
+  theta: 0.0
+  x: 7.0
+  y: -3.0
+- location_name: bedroom
+  theta: 0.0
+  x: -6.0
+  y: 0.0
